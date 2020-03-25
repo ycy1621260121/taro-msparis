@@ -6,11 +6,6 @@
 
 该项目基于Taro，构建了一个时装衣橱的项目演示，涉及了一个电商平台完整的业务逻辑和功能点，如果这个项目能驾驭的了，相信大部分公司的其他React项目也就不在话下。
 
-如遇网络不佳，请移步[国内镜像加速节点](https://gitee.com/easytuan/taro-msparis)
-
-# 效果演示
-
-[查看demo请戳这里](http://ms.caibowen.net/)（请用chrome手机模式预览）
 
 ### H5版 && 微信小程序版
 
@@ -27,8 +22,6 @@ React + Taro + Dva + Sass + ES6/ES7
 
 git clone git@github.com:EasyTuan/taro-msparis.git
 
-# 国内镜像加速节点:git@gitee.com:easytuan/taro-msparis.git
-
 cd taro-msparis
 
 # 全局安装taro脚手架
@@ -38,8 +31,12 @@ npm install -g @tarojs/cli@1.2.2
 # 如用1.2.2版本，请忽略这句
 taro update project
 
+
 # 安装项目依赖
 npm install
+
+#如果安装出现vs2005错误,删除node_modules,运行下面的代码后再npm install：
+npm install --global --production windows-build-tools
 
 # 微信小程序
 npm run dev:weapp
@@ -181,15 +178,3 @@ npm run tep `文件名`
 
 > https://microapp.bytedance.com/
 
-
-# 赞助
-
-如有帮助，欢迎赞助
-
-收到赞助款后，我会及时更新[赞助墙](https://caibowen.net/sponsor)
-
-<img src="screenshots/wechat.jpg" width="200px" /> <img src="screenshots/alipay.jpg" width="200px" />
-
-# License
-
-[MIT](LICENSE)

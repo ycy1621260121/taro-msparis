@@ -56,21 +56,6 @@ npm run tep `文件名`
 
 ```
 
-## 休闲一刻
-
-<img src="screenshots/gh_a896d27a50a3_430.jpg" width="250"/> <img src="screenshots/gh_44a51ea2dd08_430.jpg" width="250"/>
-
-## 项目说明
-
-**git分支说明：**
-
-  init：框架整体结构，不涉及任何业务逻辑
-
-  master：项目的稳定版本
-  
-  feature：项目开发分支
-
-
 ## 适配进度
 
 - [x] H5 -- 完美适配
@@ -136,15 +121,6 @@ npm run tep `文件名`
 ### 登录 && 优惠券
 
 <img src="screenshots/5.png" width="375px" height="667px" /> <img src="screenshots/6.png" width="375px" height="667px" />
-
-
-# 说明
-
->  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
-
->  或者您可以 "follow" 一下，我会不断开源更多的有趣的项目
-
->  如有问题请直接在 Issues 中提，或者您发现问题并有非常好的解决方案，欢迎 PR 👍
 
 
 # 文档

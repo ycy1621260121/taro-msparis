@@ -7,11 +7,6 @@
 该项目基于Taro，构建了一个时装衣橱的项目演示，涉及了一个电商平台完整的业务逻辑和功能点，如果这个项目能驾驭的了，相信大部分公司的其他React项目也就不在话下。
 
 
-### H5版 && 微信小程序版
-
-<img src="screenshots/qr-code.png" width="250"/> <img src="screenshots/weapp-code.jpg" width="250"/>
-
-
 # 技术栈
 
 React + Taro + Dva + Sass + ES6/ES7
